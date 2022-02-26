@@ -1,23 +1,16 @@
 # Vue_course
 
 #### 介绍
+
 Java技术栈之Vue学习
 
-#### 软件架构
-软件架构说明
+#### 概述
 
+Vue.js 是一套构建用户界面的渐进式框架
 
-#### 安装教程
+#### 思维导图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image](https://github.com/CONTINUE12/Vue_course/blob/master/14.png)
 
 #### 参与贡献
 
@@ -25,7 +18,6 @@ Java技术栈之Vue学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
